@@ -1,0 +1,7 @@
+/.*      export-ignore
+/tests   export-ignore
+/*.xml   export-ignore
+/*.yml   export-ignore
+/*.lock  export-ignore
+/*.dist  export-ignore
+/fixtures export-ignore

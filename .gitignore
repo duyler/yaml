@@ -1,0 +1,9 @@
+.idea/
+vendor/
+.phpunit.cache/
+composer.lock
+/.php-cs-fixer.cache
+/coverage.xml
+/coverage/
+.duyler/
+.DS_Store
